@@ -25,16 +25,16 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/lukebrewerton/"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/lukebrewerton/"
 
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
+    link = "https://stackoverflow.com/users/story/xxxx"
     icon = "stack-overflow"
 
 [params.google.analytics]
