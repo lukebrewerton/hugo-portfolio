@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Luke Brewerton"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Luke"
+    lastName = "Brewerton"
+    address = "Brighton, UK"
+    phone = ""
+    contactNote = "Dev Tools Engineer"
+    profileImage = "img/TechChat.png"
+    email = "luke@brewerton.me"
+    description = "Infrastructure Engineer with experience leveraging Docker, Kubernetes and Ansible along with coding in NodeJS, Python and Go to provide a DevOps environment"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/82880"
+    icon = "stack-overflow"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
