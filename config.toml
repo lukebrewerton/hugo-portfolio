@@ -1,4 +1,4 @@
-baseURL = "http://lukebrewerton.com/"
+baseURL = "https://lukebrewerton.com/"
 languageCode = "en-us"
 title = "Luke Brewerton"
 theme = "hugo-resume"
