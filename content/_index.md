@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>Infrastructure/DevOps Engineer with experience leveraging Docker, Kubernetes and Ansible along with coding in NodeJS, Python and Go to provide a DevOps environment</p>

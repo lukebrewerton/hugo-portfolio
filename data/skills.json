@@ -4,11 +4,11 @@
         "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
     },{
         "grouping":"Languages, Operating Systems & Tools",
-        "skills":["Python","git","linux","bash","php","jquery","javascript"]
+        "skills":["Python","git","linux","bash","php","go","javascript", "nodejs", "ubuntu"]
     },
     {
         "grouping":"Platform Development & Administration",
-        "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+        "skills":[ "Atlassian","Github","NGINX","opensource", "Travis", "Apache"]
     },
     {
       "grouping":"Containers & Cloud",
@@ -16,7 +16,8 @@
             {"name":"Docker","link":"https://docker.com"},
             {"name":"AWS","link":"https://aws.amazon.com"},
             {"name":"Google Cloud","link":"https://cloud.google.com"},
-            {"name":"Kubernetes","link":"https://kubernetes.io"}
+            {"name":"Kubernetes","link":"https://kubernetes.io"},
+            {"name":"Digital-Ocean","link":"https://digitalocean.com"}
         ]
     }
   ]
