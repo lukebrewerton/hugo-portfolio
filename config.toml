@@ -12,7 +12,7 @@ theme = "hugo-resume"
     profileImage = "img/profile_image.jpg"
     email = "luke@brewerton.me"
     description = "Infrastructure/DevOps Engineer with experience leveraging Docker, Kubernetes and Ansible along with coding in NodeJS, Python and Go to provide a DevOps environment"
-    favicon = "images/favicon.ico"
+    favicon = "img/favicon.ico"
     # what sections
     showSkills = true
     showProjects = true
@@ -34,7 +34,7 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/xxxx"
+    link = "https://stackoverflow.com/users/story/4085041"
     icon = "stack-overflow"
 
 [params.google.analytics]

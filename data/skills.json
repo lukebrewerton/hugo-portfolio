@@ -4,11 +4,11 @@
         "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
     },{
         "grouping":"Languages, Operating Systems & Tools",
-        "skills":["Python","git","linux","bash","php","go","javascript", "nodejs", "ubuntu"]
+        "skills":["Python","git","linux","bash","php","go","javascript", "nodejs", "Ubuntu", "Express"]
     },
     {
         "grouping":"Platform Development & Administration",
-        "skills":[ "Atlassian","Github","NGINX","opensource", "Travis", "Apache"]
+        "skills":[ "Atlassian","Github","NGINX","opensource", "Travis", "Apache", "VMWare"]
     },
     {
       "grouping":"Containers & Cloud",

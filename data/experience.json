@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Cloud Solutions Architect",
+        "company":"Hyve LTD",
+        "summary":"Designed and configured platforms on the Hyve VMWare cloud",
+        "range":"November 2016 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Senior Technical Engineer",
+        "company":"CNC LTD",
+        "summary":"Desk side support, Installation of server platforms",
+        "range":"August 2014 - November 2016"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Technical Engineer",
+        "company":"JSPC",
+        "summary":"General IT support in schools",
+        "range":"February 2014 - August 2014"
+    },
+    {
+        "role":"Technical Support Consultant",
+        "company":"Trident IT",
+        "summary":"General IT support.",
+        "range":"June 2012 - February 2014"
     }
 ]
