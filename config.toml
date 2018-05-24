@@ -22,8 +22,8 @@ theme = "hugo-resume"
     showEducation = true
 
     showQr = true
-
-    gitCommitPrefix = "https://github.com/lukebrewerton/lukebrewerton.github.io/commit/"
+    
+    gitCommitPrefix = "https://github.com/lukebrewerton/portfolio/commit"
 
 [[params.handles]]
     name = "LinkedIn"
