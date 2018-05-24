@@ -23,10 +23,11 @@ theme = "hugo-resume"
 
     showQr = true
 
+    gitCommitPrefix = "https://github.com/lukebrewerton/lukebrewerton.github.io/commit/"
+
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/lukebrewerton/"
-
 
 [[params.handles]]
     name = "GitHub"
@@ -38,4 +39,4 @@ theme = "hugo-resume"
     icon = "stack-overflow"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-119812227-1"
