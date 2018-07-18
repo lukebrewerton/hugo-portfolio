@@ -4,4 +4,5 @@ sitemap:
   priority : 0.5
 weight: 10
 ---
-<p>A collection of projects authored by Luke, and likely shared out with the community as an open source project.</p>
+
+<p>A collection of projects authored by me, and likely shared out with the community as an open source project.</p>
